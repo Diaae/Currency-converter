@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="from_text">From value in </string>
+    <string name="to_text">To value in </string>
+    <string name="calc_button">Calculate</string>
+    <string name="test_numbers">135.26</string>
+    <string name="valueInputHint">Please enter an amount</string>
+</resources>

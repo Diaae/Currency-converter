@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currencies">
+        <item>EUR</item>
+        <item>USD</item>
+        <item>MAD</item>
+        <item>MAL</item>
+        <item>DAH</item>
+        <item>CAD</item>
+        <item>GBP</item>
+        <item>CRO</item>
+    </string-array>
+</resources>
